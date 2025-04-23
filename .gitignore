@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-
+hsh
 # Object files
 *.o
 *.ko
